@@ -15,3 +15,24 @@ measurements obtained as part of the experiment. InPTA DRIa covers three years b
 
 =====================================================================================
 
+The DM time-series of 5 pulsars is available in this repository. The included pulsars 
+are 
+PSR J1643-1224
+PSR J1713+0747
+PSR J1909-3744
+PSR J1939+2134
+PSR J2145-0750
+
+=========================================================================================
+The DM time-series is available in an ASCII file named after the pulsar
+Jmmmm+nnnn.DMtimeseries.dat
+
+Each file is stuctured as below
+
+Col 1       :      MJD
+Col 2       :      Dispersion Measure (pc-cm^-3)
+Col 3       :      Uncertainity in Dispersion Measure (pc-cm^-3)
+Col 4       :      Chisquare
+
+==========================================================================================
+
