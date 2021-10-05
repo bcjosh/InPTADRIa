@@ -32,7 +32,7 @@ Each file is stuctured as below
 Col 1       :      MJD
 Col 2       :      Dispersion Measure (pc-cm^-3)
 Col 3       :      Uncertainity in Dispersion Measure (pc-cm^-3)
-Col 4       :      Chisquare
+
 
 ==========================================================================================
 
